@@ -20,6 +20,7 @@
 - Aprendiz de Analisis y Desarrollo de Software.
 ### **Bachiller** (Rafael Uribe Uribe 2023)
 -Bachiller. 
+
 -Tecnico en Recursos Humanos.
   
 ## 💡 Habilidades
