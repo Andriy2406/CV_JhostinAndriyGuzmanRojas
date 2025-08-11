@@ -5,7 +5,7 @@
 **Profesión:** _Analista y Desarrollador de Software_
 
 ## 📞 Contacto
-- **Email:** [jhostinguzman2006@gmail.com](meat:jhostinguzman2006@gmail.com)
+- **Email:** [jhostinguzman2006@gmail.com](mailto:jhostinguzman2006@gmail.com)
 - **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
 
 ## 🏢 Experiencia Laboral
