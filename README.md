@@ -19,8 +19,8 @@
 ### **SENA** _(2025 - Actualidad)_
 - Aprendiz de Analisis y Desarrollo de Software.
 ### **Bachiller** (Rafael Uribe Uribe 2023)
-  -Bachiller. 
-  -Tecnico en Recursos Humanos.
+-Bachiller. 
+-Tecnico en Recursos Humanos.
   
 ## 💡 Habilidades
 - **Soy una persona motivado**
