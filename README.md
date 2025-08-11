@@ -14,14 +14,13 @@
 - Java Script.
 - Typescript
 
-### **Empresa Sena** _(2025 - Actualidad)_
 
 ## 🎓 Educación
 ### **SENA** _(2025 - Actualidad)_
 - Aprendiz de Analisis y Desarrollo de Software.
-- Bachiller Rafael Uribe Uribe (2023)
-  -Bachiller 
-  -Tecnico en Recursos Humanos
+### **Bachiller** (Rafael Uribe Uribe 2023)
+  -Bachiller. 
+  -Tecnico en Recursos Humanos.
   
 ## 💡 Habilidades
 - **Soy una persona motivado**
